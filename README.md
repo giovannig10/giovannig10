@@ -1,6 +1,6 @@
 ## Hi 👋
 
-🧙‍♂️ Giovanni Gonçalves - Desenvolvedor em formação no SENAI Valinhos. Este repositório contém meus projetos desenvolvidos durante o curso, demonstrando meus conhecimentos adquiridos ao decorrer do curso.
+🧙‍♂️ Giovanni Gonçalves - Desenvolvedor em formação no SENAI Valinhos. Este repositório contém meus projetos desenvolvidos, demonstrando meus conhecimentos adquiridos ao decorrer do curso.
 
 <details>
   <summary>👁️ Sobre mim:</summary>
