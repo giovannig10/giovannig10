@@ -1,15 +1,13 @@
 ## Hi 👋
 
-🧙‍♂️ Giovanni Gonçalves - Desenvolvedor em formação no SENAI Valinhos, com foco em desenvolvimento de sistemas. Este repositório contém meus projetos desenvolvidos durante o curso, demonstrando minhas habilidades em HTML, CSS e JS.
+🧙‍♂️ Giovanni Gonçalves - Desenvolvedor em formação no SENAI Valinhos. Este repositório contém meus projetos desenvolvidos durante o curso, demonstrando meus conhecimentos adquiridos ao decorrer do curso.
 
 <details>
   <summary>👁️ Sobre mim:</summary>
-
-- Apaixonado por futebol, com especialidade em HTML um recente programador se desenvolvendo na área, uma pessoal extrovertida que se diverte fazendo seus projetos.
 </details>
 
 
-## Conheça mais sobre mim! 😀
+## chega nas rede! 😀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
