@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Giovanni Gonçalves!
+# 👋 eu sou Giovanni!
 
 🧙‍♂️ Desenvolvedor em formação no **SENAI Valinhos**. Este repositório é uma vitrine dos meus projetos e aprendizados ao longo do curso, demonstrando minha evolução e paixão por tecnologia.
 
@@ -6,7 +6,7 @@
 
 ## 🌟 Sobre Mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir com soluções criativas.
+Sou fã de tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir com soluções.
 
 - 🎓 Estudante de Desenvolvimento de Software.
 - 💻 Explorando o mundo do Front-end e Back-end.
@@ -40,18 +40,17 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Estou sempre em bus
 
 ## 🌐 Conecte-se Comigo!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/giovanni_.goncalves)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovannig10)
 
 ---
 
 ## 📂 Projetos em Destaque
 
-- [**Projeto 1**](#) - Descrição breve do projeto.
-- [**Projeto 2**](#) - Descrição breve do projeto.
-- [**Projeto 3**](#) - Descrição breve do projeto.
+- [**Projeto 1**](https://github.com/sosogomess/Projeto-Geografia.git) - Site Projeto SESI.
+- [**Projeto 2**](https://github.com/giovannig10/The20BraziliansStars_WEB.git) - Site Projeto API Futebol WEB.
+- [**Projeto 3**](https://github.com/giovannig10/The20BraziliansStars_MOBILE.git) - Site Projeto API Futebol MOBILE.
 
 ---
 
-> "A tecnologia move o mundo." – Steve Jobs
+> "Eu nunca desisto, porque Deus me fortalece a cada dia" - Kabrinha
