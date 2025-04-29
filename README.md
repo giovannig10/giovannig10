@@ -54,4 +54,4 @@ Sou fã de tecnologia e desenvolvimento de software. Estou sempre em busca de no
 ---
 
 > "Eu nunca desisto, porque Deus me fortalece a cada dia" - Kabrinha
->  "Podem atpe me chamar de louco, mas eu realmente acredito que vou ter tudo que eu quiser na vida" - Nino Abravanel
+>  "Podem até me chamar de louco, mas eu realmente acredito que vou ter tudo que eu quiser na vida" - Nino Abravanel
