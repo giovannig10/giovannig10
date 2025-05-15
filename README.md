@@ -44,6 +44,15 @@ Sou fã de tecnologia e desenvolvimento de software. Estou sempre em busca de no
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovannig10)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gioopessoal)
 
+## 📬 Contatos
+
+### Contato Profissional
+- **Email:** giovanni.goncalves@aluno.senai.br
+- **Email:** giovannigoncalves.tds2.senai@gmail.com
+
+### Contato Pessoal
+- **Email:** giovanni.ggoncalves@outlook.com
+- **PlayStation:** [gilgo47](https://psnprofiles.com/GiovanniPSN)
 ---
 
 ## 📂 Projetos em Destaque
