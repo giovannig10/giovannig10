@@ -52,7 +52,7 @@ Sou fã de tecnologia e desenvolvimento de software. Estou sempre em busca de no
 
 ### Contato Pessoal
 - **Email:** giovanni.ggoncalves@outlook.com
-- **PlayStation:** [gilgo47](https://psnprofiles.com/GiovanniPSN)
+- **PlayStation:** [gilgo47](https://psnprofiles.com/gilgo47)
 ---
 
 ## 📂 Projetos em Destaque
