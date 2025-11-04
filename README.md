@@ -2,6 +2,17 @@
 
 🧙‍♂️ Desenvolvedor em formação no **SENAI Valinhos**. Este repositório é uma vitrine dos meus projetos e aprendizados ao longo do curso, demonstrando minha evolução e paixão por tecnologia.
 
+<div align="center">
+
+# Codando agora ao som de 🎵
+ 
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21lcmktghvt6k566fvsyerjoi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile"/>
+  </a>
+</div>
+
+---
+
 ---
 
 ## 🌟 Sobre Mim
